@@ -1,0 +1,53 @@
+.container{
+  margin-top: 250px;
+    margin-left:500px;
+    box-sizing: border-box;
+    background-color: lightslategray;
+    width:fit-content;
+    padding:30px;
+    border-radius: 20px;
+}
+
+#shiftbut{
+    width:80px;
+    text-align: left;
+}
+
+#enterbut{
+  width:80px;
+  text-align: right;
+}
+
+#spacebut{
+  width:150px;
+ height:30px;
+
+ 
+}
+
+.r2  button{
+  width:45px;
+    
+}
+
+.r3  button{
+  width:45px;
+    
+}
+.r4 button{
+  width:45px;
+    
+}
+.r5  button{
+  width:45px;
+}
+
+.r6 button{
+  width:45px;
+    
+}
+
+#CapsLkbut{
+  width:55px;
+
+}
